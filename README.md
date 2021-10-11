@@ -60,7 +60,7 @@
 
 ## Github Stats  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markohaufe&show_icons=true&theme=dark)
+![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=markohaufe&show_icons=true&theme=dark)
 
 <br/>  
 

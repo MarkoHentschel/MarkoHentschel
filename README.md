@@ -43,10 +43,8 @@
 
 
 ## Github Stats  
-<div align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=markohaufe&show_icons=true&theme=radical">
-</div> 
-<br/>  
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=markohaufe&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=markohaufe&show_icons=true&theme=radical)
 
 
 ## Recent Blog Posts  

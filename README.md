@@ -59,7 +59,9 @@
 
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markohaufe&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=markohaufe&repo=github-readme-stats" />
+</a>
 <br/>  
 
 

@@ -44,7 +44,7 @@
 
 ## Github Stats  
 <div align="center">
-![Test](https://github-readme-stats.vercel.app/api?username=markohaufe&show_icons=true&theme=radical)
+<a href="https://github-readme-stats.vercel.app/api?username=markohaufe&show_icons=true&theme=radical">
 </div> 
 <br/>  
 

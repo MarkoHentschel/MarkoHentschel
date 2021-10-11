@@ -39,6 +39,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 </div>
 
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -80,12 +85,16 @@
 <br/>  
 
 <div align="center">
-            <a href="paypal.me/markohentschel" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/paypal.me/markohentschel" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="center"
                 />
             </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <br />
 
 ----

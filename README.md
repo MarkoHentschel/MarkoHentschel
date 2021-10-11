@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/markohaufe/markohaufe/blob/main/Data%20Analytics.png" alt="banner for marko hentschel - data scientist">
+<img src="https://github.com/markohaufe/markohaufe/blob/main/Data%20scientist.png" alt="banner for marko hentschel - data scientist">
 
 <!--
 **markohaufe/markohaufe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

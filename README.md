@@ -4,7 +4,7 @@
   
  
 ### Hi everyone, I'm Marko. Welcome to my Git! 👋
-- 😄🏻 I'm a data scientist, former financial and business controller, who loves to explore data to with the goal of understanding the world a bit better day by day
+- 😄🏻 I'm a data scientist, former financial and business controller, who loves to explore data with the goal of understanding the world a bit better day by day
 - 🌱 I’m currently learning the best practices of developing data stories through sharpening my R / Python skills. 
 
 <br/>

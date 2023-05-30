@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/markohaufe/markohaufe/blob/main/Data%20scientist.png" align="center" style="width: 100%" />
+<img src="https://github.com/MarkoHentschel/MarkoHentschel/blob/main/Data%20scientist.png" align="center" style="width: 100%" />
 </div>  
   
  
@@ -27,7 +27,7 @@
 
 ## 📫 How to reach me:
 <div align="center">
-<a href="https://github.com/markohaufe" target="_blank">
+<a href="https://github.com/MarkoHentschel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/marko-hentschel-20785494/" target="_blank">
